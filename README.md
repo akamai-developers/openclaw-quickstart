@@ -5,7 +5,7 @@ This Terraform configuration creates a Linode VM with security hardening and aut
 ## Prerequisites
 
 1. [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) installed
-2. Linode account with API token
+2. Create an [Akamai Cloud account here](http://login.linode.com/signup?promo=akm-dev-git-300-31126-M055) with API token (we have a $300 credit just for you)  
 3. SSH key pair generated
 
 ## Setup
